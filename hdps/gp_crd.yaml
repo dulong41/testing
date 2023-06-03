@@ -12,7 +12,7 @@ spec:
     storage: 1G
     workerSelector: {}
   segments:
-    primarySegmentCount: 2
+    primarySegmentCount: 1
     memory: "800Mi"
     cpu: "0.5"
     storageClassName: hostpath
